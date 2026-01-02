@@ -1,81 +1,82 @@
-keys,en,ja,fr,es
-ENGLISH,English,English,English,English
-JAPANESE,日本語,日本語,日本語,日本語
-FRENCH,Français,Français,Français,Français
-SPANISH,Español,Español,Español,Español
-Select Language,Select Language,言語を選択,Sélectionner la langue,Seleccione su idioma
-Back,Back,戻る,Retour,Retroceder
-Start!,Start!,スタート,Lancer !,¡Empezar!
-Favorite,Favorite,お気に入り,Favori,Favorito
-Favorited!,Favorited!,お気に入り追加済み,Favori !,¡Marcado como favorito!
-Play Music,Play Music,音楽を聴く,Jouer la musique,Reproducir canción
-Stop Playing,Stop Playing,聴くのをやめる,Arrêter la musique,Detener reproducción
-Speed,Speed,速さ,Vitesse,Velocidad
-MISSES,MISSES,ミス,RATÉ,FALLOS
-PAUSES,PAUSES,一時停止,PAUSES,PAUSAS
-No Pauses,No Pauses,一時停止なし,Sans pauses,Sin pausas
-PROGRESS,PROGRESS,進行度,PROGRESSION,PROGRESO
-ACCURACY,ACCURACY,精度,PRÉCISION,PRECISIÓN
-MAX COMBO,MAX COMBO,最高コンボ,COMBO MAX,MÁXIMO COMBO
-Modifiers,Modifiers,Mods,Modificateurs,Modificadores
-Map by,Map by,制作者:,Mappé par,Mapeado por
-Song ID,Song ID,ID:,ID:,ID:
-Nofail,Nofail,無敵,Nofail,Nofail
-Sudden Death,Sudden Death,即死,Mort subite,Muerte súbita
-Extra Energy,Extra Energy,HP増加,Extra-énergie,Energía extra
-Easy Mode,Easy Mode,イージーモード,Mode facile,Modo fácil
-No Regen,No Regen,HP回復なし,Sans régénération,Sin regeneración
-Hard Mode,Hard Mode,ハードモード,Mode difficile,Modo difícil
-Mirror X,Mirror X,X軸反転,Miroir X,Reflejo X
-Mirror Y,Mirror Y,Y軸反転,Miroir Y,Reflejo Y
-Earthquake,Earthquake,地震,Tremblement,Terremoto
-Ghost,Ghost,ゴースト,Dissipation,Desvanecimiento
-Chaos,Chaos,カオスモード,Chaos,Caos
-Visual Map Mode,Visual Map Mode,シアターモード,Mode map visuelle,Modo mapa visual
-Flashlight,Flashlight,フラッシュライト,Lampe Torche,Linterna
-Invert Mouse,Invert Mouse,マウス反転,Souris inversée,Ratón invertido
-Hard Rock,Hard Rock,ハードロック,Hard Rock,Hard Rock
-Health Model,Health Model,ヘルスモード,Modèle de PV,Modelo de PV
-Start From,Start From,開始地点,Commencer à,Empezar desde
-NOTES,NOTES,ノーツ,NOTES,NOTAS
-SCORE,SCORE,スコア,SCORE,PUNTUACIÓN
-PAUSED,PAUSED,一時停止,EN PAUSE,PAUSADO
-HOLD R TO EXIT,HOLD R TO EXIT,Rキーを長押しでスキップ,MAINTENIR R POUR QUITTER,MANTENER R PARA SALIR
-PRESS SPACE TO SKIP,PRESS SPACE TO SKIP,スキップするにはスペースをクリック,APPUYER SUR ESPACE POUR PASSER,PULSAR ESPACIO PARA SALTAR
-You failed (new best!),You failed (new best!),失敗（新記録！）,Échec ! (meilleur progression !),¡Moriste! (¡mejor marca!)
-Default (Sound Space),Default (Sound Space),デフォルト（Sound Space）,Par défaut (Sound Space),Por defecto (Sound Space)
-Default - same as Sound Space,Default - same as Sound Space,デフォルト - Sound Spaceと同じ,Par défaut - (le même que Sound Space),Por defecto (el mismo que en Sound Space)
-Old (easier),Old (easier),旧（もっと簡単）,Ancien (plus facile),Antiguo (más fácil)
-"Old - 6 hp (10 on easy), regen 1 hp/hit","Old - 6 hp (10 on easy), regen 1 hp/hit","旧 - 6 hp (イージーでは10hp), 回復 1hp/hit","Ancien - 6 PV (10 en facile), régénère 1 PV/note","Antiguo - 6 PV (10 PV en fácil), regenera 1 PV / nota golpeada"
-Giving up...,Giving up...,諦める,Abandon...,Abandonar...
-Save,Save,保存,Sauvegarder,Guardar
-Open User Folder,Open User Folder,ユーザーフォルダを開く,Ouvrir dossier utilisateur,Abrir carpeta de usuario
-Open Replay Folder,Open Replay Folder,リプレイフォルダーを開く,Ouvrir dossier de replay,Abrir carpeta de repeticiones
-Reload Content,Reload Content,再読み込み,Recharger le contenu,Recargar contenido
-Disable Pausing,Disable Pausing,一時停止を無効にする,Désactiver les pauses,Desactivar pausas
-disallows pausing the map,disallows pausing the map,一時停止を使わない,empêche les pauses,evita poder pausar el juego
-Custom Speed Rate,Custom Speed Rate,ノーツ速度,Vitesse customisé,Velocidad personalizable
-"[default 100%] used by the custom speed modifier (speed+ mods are 115, 125, 135, and 145)","[default 100%] used by the custom speed modifier (speed+ mods are 115, 125, 135, and 145)","[デフォルト 100%] カスタム速度Modで使用 (スピードModは115, 125, 135, 145)",[par défaut 100%],"[por defecto 100%] utilizada por el modificador de velocidad personalizable (los modificadores de velocidad extra son 115, 125, 135, and 145)"
-Hitbox Size,Hitbox Size,ヒットボックスの大きさ,Taille des hitbox,Tamaño del hitbox
-[def. 1.14] the size of note hitboxes in grid units (hit checking is done at the center of the cursor)   [1.5x = 1.71; 2x = 2.28],[def. 1.14] the size of note hitboxes in grid units (hit checking is done at the center of the cursor)   [1.5x = 1.71; 2x = 2.28],[デフォルト 1.14] ノーツのヒットボックスの大きさをグリッド単位で指定（ヒットチェックはカーソルの中心） [1.5x = 1.71; 2x = 2.28],[par défaut 1.14] la taille de l'hitbox des notes dans la grille (la vérification des hits est faites au centre du curseur)   [1.5x = 1.71; 2x = 2.28],[por defecto 1.14] el tamaño del hitbox de las notas (verificación de golpeo realizada desde el centro del cursor) [1.5x = 1.71; 2x = 2.28]
-Hit Window,Hit Window,ヒット判定,Fenêtre de hit,Registro de golpeo
-[def. 55ms] the length of time notes can be hit after reaching the grid   [1.5x = 83; 2x = 110],[def. 55ms] the length of time notes can be hit after reaching the grid   [1.5x = 83; 2x = 110],グリッドに到達した後、ノートをヒットできる時間の長さ [基本値 = 55ms、拡張値 = 1.5倍 (83ms)、2倍 (110ms)],[par défaut 55ms] la durée de temps durant les notes peuvent être touché après avoir atteint la grille [1.5x = 83; 2x = 110],[por defecto 55ms] la longitud temporal durante la que se pueden golpear las notas al pasar la cuadrícula [1.5x = 83; 2x = 110]
-Counter Speed,Counter Speed,カウンター速度,Contre-Vitesse,Contra-Velocidad
-alters the hit window to counter the effects of speed mods,alters the hit window to counter the effects of speed mods,スピードModの影響を打ち消すためにヒット判定を変更する,altère la fenêtre de hit pour contrer les répercussions des vitesses,modifica el Hit Window para contrarrestar los efectos de un modificador de velocidad
-Notes,Notes,ノーツ設定,Notes,Notas
-Note Colors,Note Colors,ノーツの色,Couleur des notes,Color de las notas
-Note Mesh,Note Mesh,ノーツの形,Modèle 3D des notes,Modelo 3D de las notas
-model used by notes,model used by notes,ノーツのモデル,modèle utilisé pour les notes,modelo utilizado por las notas
-Rounded,Rounded,丸い,Arrondi,Redondeado
-Square,Square,四角,Carré,Cuadrado
-Circle,Circle,円,Rond,Circular
-Block,Block,ブロック,Bloc,Bloque
-Front of Block,Front of Block,ブロックの前面,Devant du bloc,Frontal de bloque
-Plane,Plane,プレーン,Aire,Plano
-Note Scale,Note Scale,ノーツの大きさ,Échelle des notes,Escala de las notas
-[def. 1] the visual size of the notes (doesn't affect hitboxes),[def. 1] the visual size of the notes (doesn't affect hitboxes),ノーツの視覚的な大きさ（ヒットボックスには影響しない）,[par défaut 1] la taille visuelle des notes (n'affecte pas les hitboxs),[por defecto 1] tamaño visual (no afecta al hitbox)
-Note Opacity,Note Opacity,ノーツの透明度,Opacité des notes,Opacidad de las notas
-[def. 100%] how opaque/transparent/visible the note appears,[def. 100%] how opaque/transparent/visible the note appears,[デフォルト 100%] ノーツの不透明度/視認性,[par défaut 100%] à quel point les notes apparaitront opaque/transparante/visible,[por defecto 100%] cómo de opacas / transparentes / visibles se ven las notas
+keys,en,ja,fr,es,vi
+ENGLISH,English,English,English,English,English
+JAPANESE,日本語,日本語,日本語,日本語,日本語
+FRENCH,Français,Français,Français,Français,Français
+SPANISH,Español,Español,Español,Español,Español
+VIETNAMESE,Tiếng Việt,Tiếng Việt,Tiếng Việt,Tiếng Việt,Tiếng Việt
+Select Language,Select Language,言語を選択,Sélectionner la langue,Seleccione su idioma,Chọn ngôn ngữ
+Back,Back,戻る,Retour,Retroceder,Trở về
+Start!,Start!,スタート,Lancer !,¡Empezar!,Bắt đầu!
+Favorite,Favorite,お気に入り,Favori,Favorito,Yêu thích
+Favorited!,Favorited!,お気に入り追加済み,Favori !,¡Marcado como favorito!,Đã thêm vào danh sách yêu thích!
+Play Music,Play Music,音楽を聴く,Jouer la musique,Reproducir canción,Nghe nhạc
+Stop Playing,Stop Playing,聴くのをやめる,Arrêter la musique,Detener reproducción,Dừng nhạc
+Speed,Speed,速さ,Vitesse,Velocidad,Tốc độ
+MISSES,MISSES,ミス,RATÉ,FALLOS,TRƯỢT
+PAUSES,PAUSES,一時停止,PAUSES,PAUSAS,TẠM DỪNG
+No Pauses,No Pauses,一時停止なし,Sans pauses,Sin pausas,Không dừng
+PROGRESS,PROGRESS,進行度,PROGRESSION,PROGRESO,TIẾN TRÌNH
+ACCURACY,ACCURACY,精度,PRÉCISION,PRECISIÓN,ĐỘ CHÍNH XÁC
+MAX COMBO,MAX COMBO,最高コンボ,COMBO MAX,MÁXIMO COMBO,COMBO TỐI ĐA
+Modifiers,Modifiers,Mods,Modificateurs,Modificadores,Mods
+Map by,Map by,制作者:,Mappé par,Mapeado por,Map bởi: 
+Song ID,Song ID,ID:,ID:,ID:,ID nhạc: 
+Nofail,Nofail,無敵,Nofail,Nofail,Nofail
+Sudden Death,Sudden Death,即死,Mort subite,Muerte súbita,Chết đột ngột
+Extra Energy,Extra Energy,HP増加,Extra-énergie,Energía extra,Tăng thêm năng lượng
+Easy Mode,Easy Mode,イージーモード,Mode facile,Modo fácil,Chế độ dễ
+No Regen,No Regen,HP回復なし,Sans régénération,Sin regeneración,Không hồi máu
+Hard Mode,Hard Mode,ハードモード,Mode difficile,Modo difícil,Chế độ khó
+Mirror X,Mirror X,X軸反転,Miroir X,Reflejo X,Lật trục X
+Mirror Y,Mirror Y,Y軸反転,Miroir Y,Reflejo Y, Lật trục Y
+Earthquake,Earthquake,地震,Tremblement,Terremoto,Động đất
+Ghost,Ghost,ゴースト,Dissipation,Desvanecimiento,Bóng ma
+Chaos,Chaos,カオスモード,Chaos,Caos,Hỗn loạn
+Visual Map Mode,Visual Map Mode,シアターモード,Mode map visuelle,Modo mapa visual,Chơi tự động
+Flashlight,Flashlight,フラッシュライト,Lampe Torche,Linterna,Tầm nhìn hạn chế
+Invert Mouse,Invert Mouse,マウス反転,Souris inversée,Ratón invertido,Đảo chuột
+Hard Rock,Hard Rock,ハードロック,Hard Rock,Hard Rock,Hard Rock
+Health Model,Health Model,ヘルスモード,Modèle de PV,Modelo de PV,Cấu trúc HP
+Start From,Start From,開始地点,Commencer à,Empezar desde,Bắt đầu từ
+NOTES,NOTES,ノーツ,NOTES,NOTAS,NỐT
+SCORE,SCORE,スコア,SCORE,PUNTUACIÓN,ĐIỂM
+PAUSED,PAUSED,一時停止,EN PAUSE,PAUSADO,ĐÃ DỪNG
+HOLD R TO EXIT,HOLD R TO EXIT,Rキーを長押しでスキップ,MAINTENIR R POUR QUITTER,MANTENER R PARA SALIR,NHẤN GIỮ PHÍM R ĐỂ THOÁT
+PRESS SPACE TO SKIP,PRESS SPACE TO SKIP,スキップするにはスペースをクリック,APPUYER SUR ESPACE POUR PASSER,PULSAR ESPACIO PARA SALTAR,NHẤN PHÍM CÁCH ĐỂ BỎ QUA
+You failed (new best!),You failed (new best!),失敗（新記録！）,Échec ! (meilleur progression !),¡Moriste! (¡mejor marca!),Thất bại (kỷ lục mới!)
+Default (Sound Space),Default (Sound Space),デフォルト（Sound Space）,Par défaut (Sound Space),Por defecto (Sound Space),Mặc định (Sound Space)
+Default - same as Sound Space,Default - same as Sound Space,デフォルト - Sound Spaceと同じ,Par défaut - (le même que Sound Space),Por defecto (el mismo que en Sound Space),Mặc định - giống với Sound Space
+Old (easier),Old (easier),旧（もっと簡単）,Ancien (plus facile),Antiguo (más fácil),Cũ (dễ hơn)
+"Old - 6 hp (10 on easy), regen 1 hp/hit","Old - 6 hp (10 on easy), regen 1 hp/hit","旧 - 6 hp (イージーでは10hp), 回復 1hp/hit","Ancien - 6 PV (10 en facile), régénère 1 PV/note","Antiguo - 6 PV (10 PV en fácil), regenera 1 PV / nota golpeada","Cũ - 6 HP (10 ở chế độ dễ), hồi 1 hp/lần nhấp"
+Giving up...,Giving up...,諦める,Abandon...,Abandonar...,Đang bỏ cuộc...
+Save,Save,保存,Sauvegarder,Guardar,Lưu
+Open User Folder,Open User Folder,ユーザーフォルダを開く,Ouvrir dossier utilisateur,Abrir carpeta de usuario,Mở thư mục người dùng
+Open Replay Folder,Open Replay Folder,リプレイフォルダーを開く,Ouvrir dossier de replay,Abrir carpeta de repeticiones,Mở thư mục phát lại
+Reload Content,Reload Content,再読み込み,Recharger le contenu,Recargar contenido,Tải lại nội dung
+Disable Pausing,Disable Pausing,一時停止を無効にする,Désactiver les pauses,Desactivar pausas,Tắt tính năng tạm dừng
+disallows pausing the map,disallows pausing the map,一時停止を使わない,empêche les pauses,evita poder pausar el juego,không cho tạm dừng
+Custom Speed Rate,Custom Speed Rate,ノーツ速度,Vitesse customisé,Velocidad personalizable,Tốc độ tuỳ chỉnh
+"[default 100%] used by the custom speed modifier (speed+ mods are 115, 125, 135, and 145)","[default 100%] used by the custom speed modifier (speed+ mods are 115, 125, 135, and 145)","[デフォルト 100%] カスタム速度Modで使用 (スピードModは115, 125, 135, 145)",[par défaut 100%],"[por defecto 100%] utilizada por el modificador de velocidad personalizable (los modificadores de velocidad extra son 115, 125, 135, and 145)","[mặc định 100%] được sử dụng bởi mod sửa tốc độ tuỳ chỉnh (các mod tốc độ+ là 115, 125, 135, and 145)"
+Hitbox Size,Hitbox Size,ヒットボックスの大きさ,Taille des hitbox,Tamaño del hitbox,Kích cỡ hitbox
+[def. 1.14] the size of note hitboxes in grid units (hit checking is done at the center of the cursor)   [1.5x = 1.71; 2x = 2.28],[def. 1.14] the size of note hitboxes in grid units (hit checking is done at the center of the cursor)   [1.5x = 1.71; 2x = 2.28],[デフォルト 1.14] ノーツのヒットボックスの大きさをグリッド単位で指定（ヒットチェックはカーソルの中心） [1.5x = 1.71; 2x = 2.28],[par défaut 1.14] la taille de l'hitbox des notes dans la grille (la vérification des hits est faites au centre du curseur)   [1.5x = 1.71; 2x = 2.28],[por defecto 1.14] el tamaño del hitbox de las notas (verificación de golpeo realizada desde el centro del cursor) [1.5x = 1.71; 2x = 2.28],[mđ. 1.14] kích thước của hitbox nốt theo đơn vị lưới (việc kiểm tra lần nhấn được thực hiện ở giữa con trỏ)   [1.5x = 1.71; 2x = 2.28]
+Hit Window,Hit Window,ヒット判定,Fenêtre de hit,Registro de golpeo,Khoảng thời gian nhấn trúng
+[def. 55ms] the length of time notes can be hit after reaching the grid   [1.5x = 83; 2x = 110],[def. 55ms] the length of time notes can be hit after reaching the grid   [1.5x = 83; 2x = 110],グリッドに到達した後、ノートをヒットできる時間の長さ [基本値 = 55ms、拡張値 = 1.5倍 (83ms)、2倍 (110ms)],[par défaut 55ms] la durée de temps durant les notes peuvent être touché après avoir atteint la grille [1.5x = 83; 2x = 110],[por defecto 55ms] la longitud temporal durante la que se pueden golpear las notas al pasar la cuadrícula [1.5x = 83; 2x = 110],[mđ. 55ms] Thời hạn nhấn nốt sau khi nốt chạm vào lưới (grid)   [1.5x = 83; 2x = 110]
+Counter Speed,Counter Speed,カウンター速度,Contre-Vitesse,Contra-Velocidad,Bù trừ tốc độ
+alters the hit window to counter the effects of speed mods,alters the hit window to counter the effects of speed mods,スピードModの影響を打ち消すためにヒット判定を変更する,altère la fenêtre de hit pour contrer les répercussions des vitesses,modifica el Hit Window para contrarrestar los efectos de un modificador de velocidad,Thay đổi thời gian nhấn trúng để bù trừ cho các tác động từ việc thay đổi tốc độ bài hát (speed mods)."
+Notes,Notes,ノーツ設定,Notes,Notas,Nốt
+Note Colors,Note Colors,ノーツの色,Couleur des notes,Color de las notas,Màu nốt
+Note Mesh,Note Mesh,ノーツの形,Modèle 3D des notes,Modelo 3D de las notas,Hình dạng nốt
+model used by notes,model used by notes,ノーツのモデル,modèle utilisé pour les notes,modelo utilizado por las notas,hình dạng của nốt
+Rounded,Rounded,丸い,Arrondi,Redondeado,Bo góc
+Square,Square,四角,Carré,Cuadrado,Vuông
+Circle,Circle,円,Rond,Circular,Tròn
+Block,Block,ブロック,Bloc,Bloque,Hình khối
+Front of Block,Front of Block,ブロックの前面,Devant du bloc,Frontal de bloque,Mặt trước khối
+Plane,Plane,プレーン,Aire,Plano,Mặt phẳng
+Note Scale,Note Scale,ノーツの大きさ,Échelle des notes,Escala de las notas,Kích thước nốt
+[def. 1] the visual size of the notes (doesn't affect hitboxes),[def. 1] the visual size of the notes (doesn't affect hitboxes),ノーツの視覚的な大きさ（ヒットボックスには影響しない）,[par défaut 1] la taille visuelle des notes (n'affecte pas les hitboxs),[por defecto 1] tamaño visual (no afecta al hitbox),[mđ. 1] kích thước trực quan của nốt (ko ảnh hưởng đến hitbox)
+Note Opacity,Note Opacity,ノーツの透明度,Opacité des notes,Opacidad de las notas,Độ mờ nốt
+[def. 100%] how opaque/transparent/visible the note appears,[def. 100%] how opaque/transparent/visible the note appears,[デフォルト 100%] ノーツの不透明度/視認性,[par défaut 100%] à quel point les notes apparaitront opaque/transparante/visible,[por defecto 100%] cómo de opacas / transparentes / visibles se ven las notas,[mđ. 100%] độ mờ/trong suốt/dễ nhìn của nốt
 Approach Rate,Approach Rate,接近速度,Vitesse d'approche (AR),Velocidad de aproximación (AR)
 [def. 40] the speed that notes move towards the grid. (note: this will be half of your AR in ss/vulnus),[def. 40] the speed that notes move towards the grid. (note: this will be half of your AR in ss/vulnus),[デフォルト 40] ノーツがグリッドに向かって移動する速度。(注：ss/vulnusではARの半分になります。）,[par défaut 40] la vitesse a laquelle les notes arrivent vers la grille (note : elle sera la moitié de ton AR (Approch Rate) sur Sound Space/Vulnus),[por defecto 40] la velocidad con que se aproximan las notas a la cuadrícula
 Spawn Distance,Spawn Distance,ノーツの出現距離,Distance d'apparition (SD),Distancia de aparición (SD)
