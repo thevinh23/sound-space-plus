@@ -92,97 +92,97 @@ Note Spawn Effect,Note Spawn Effect,ノーツの出現エフェクト,Effet d'ap
 Hit Effect Image,Hit Effect Image,ヒットエフェクトのイメージ,Image hit effect,Imagen de efecto visual de golpe,Hình ảnh hiệu ứng nhấn
 Click to replace,Click to replace,クリックで置き換え,Cliquer pour remplacer,Haz click para reemplazar,Nhấp để đổi
 this image is used by hit effects with an asterisk (*) in their name,this image is used by hit effects with an asterisk (*) in their name,この画像は、名前にアスタリスク（*）が含まれるヒットエフェクトで使用されます。,cette image est utilisé par les hit effect avec un astérisque (*) dans leur nom,esta imagen es utilizada por los efectos visuales de golpe con un asterisco (*) en su nombre,ảnh này được sử dụng bởi hiệu ứng nhấn với một dấu hoa thị (*) trong tên nó
-Ripple* (no color),Ripple* (no color),画像* (無色),Onde* (sans couleurs),Onda* (incoloro)
-Ripple* (note color),Ripple* (note color),画像* (ノーツの色),Onde* (couleur des notes),Onda* (color de nota)
-Ripple* (rainbow),Ripple*(rainbow),画像* (虹色),Onde* (arc-en-ciel),Onda* (arcoiris)
-Shards (note color),Shards (note color),破片 (ノーツの色),Éclats* (couleur des notes),Fragmentos* (color de nota)
-Shards (rainbow),Shards (rainbow),破片 (虹色),Éclats* (arc-en-ciel),Fragmentos* (arcoiris)
-Shards (no color),Shards (no color),破片 (無色),Éclats* (sans couleurs),Fragmentos* (incoloro)
-Miss* (red),Miss* (red),ミス* (赤),Raté* (rouge),Fallo* (rojo)
-Miss* (note color),Miss* (note color),ミス* (ノーツの色),Raté* (couleur des notes),Fallo* (color de nota)
-Miss* (rainbow),Miss* (rainbow),ミス* (虹色),Raté* (arc-en-ciel),Fallo* (arcoiris)
-Miss* (no color),Miss* (no color),ミス* (無色),Raté* (sans couleurs),Fallo* (incoloro)
-Hit Effect,Hit Effect,ヒットエフェクト,Hit effect,Efecto de golpe
-effect played when you hit a note,effect played when you hit a note,ノーツを打った際のエフェクト,effet joué quand tu touches une note,el efecto visual al golpear una nota
-Show Hit Effect,Show Hit Effect,ヒットエフェクトを表示,Montrer hit effect,Mostrar efecto visual
-plays your selected hit effect when you hit a note,plays your selected hit effect when you hit a note,ノーツを打った際に選択したヒット・エフェクトを再生する,joue l'hit effect selectionné quand tu touche une note,muestra el efecto seleccionado al golpear una nota
-Hit Effect at Cursor,Hit Effect at Cursor,カーソルヒットエフェクトを表示,Hit effect au curseur,Efecto visual sobre el cursor
-hit effects will appear at the center of notes when this is off,hit effects will appear at the center of notes when this is off,これがオフの場合、ヒットエフェクトがノーツの中央に表示されます。,les hit effects apparaîtront au centre des notes si cette option est désactivé,el efecto visual aparecerá en el centro de las notas golpeadas si esta opción está desactivada
-Approach Squares,Approach Squares,アプローチガイド,Carré d'approche,Cuadrado de proximidad
-squares on the grid that show note approach - similar to the circles in osu!,squares on the grid that show note approach - similar to the circles in osu!,ノーツの接近を示すグリッド上の正方形 - Osu!のサークルに似ています！,carré sur la grille qui représente la vitesse d'approche des notes - similaire aux cercles dans osu!,aparecerán cuadrados en la pantalla que representan la velocidad de aproximación - como en osu!
-Approach Follow,Approach Follow,アプローチフォロー,Suivie d'approche,Aproximación con seguimiento
-makes it so the approach squares lock to the note,makes it so the approach squares lock to the note,アプローチガイドがノーツについていく,fait que les carrés d'approche se verouille aux notes,hace que los cuadrados de proximidad se posicionen sobre la nota
-Miss Effect Image,Miss Effect Image,ミスエフェクトの画像,Image miss effect,Imagen de efecto visual de fallo
-"same as above, but applies to your miss effect instead","same as above, but applies to your miss effect instead",上記と同じだが、代わりに自分のミス効果に適用される。,"même chose, sauf que ça s'applique au miss effect","lo mismo que arriba, pero aplicada al efecto de fallo"
-Miss Effect,Miss Effect,ミスエフェクト,Miss effect,Efecto de fallo
-hit effect but when you don't,hit effect but when you don't,ミスした時のエフェクト,hit effect mais pas,efecto de golpe pero va a ser que no
-Ripple* (no color),Ripple* (no color),画像* (無色),Onde* (sans couleurs),Onda* (incoloro)
-Ripple* (note color),Ripple* (note color),画像* (ノーツの色),Onde* (couleur des notes),Onda* (color de nota)
-Ripple* (rainbow),Ripple* (rainbow),画像* (虹色),Onde* (arc-en-ciel),Onda* (arcoiris)
-Shards (note color),Shards (note color),破片 (ノーツの色),Éclats* (couleur des notes),Fragmentos* (color de nota)
-Shards (rainbow),Shards (rainbow),破片 (虹色),Éclats* (arc-en-ciel),Fragmentos* (arcoiris)
-Shards (no color),Shards (no color),破片 (無色),Éclats* (sans couleurs),Fragmentos* (incoloro)
-Miss* (red),Miss* (red),ミス* (赤),Raté* (rouge),Fallo* (rojo)
-Miss* (note color),Miss* (note color),ミス* (ノーツの色),Raté* (couleur des notes),Fallo* (color de nota)
-Miss* (rainbow),Miss* (rainbow),ミス* (虹色),Raté* (arc-en-ciel),Fallo* (arcoiris)
-Miss* (no color),Miss* (no color),ミス* (無色),Raté* (sans couleurs),Fallo* (incoloro)
-Show Miss Effect,Show Miss Effect,ミスエフェクトを表示,Afficher miss effect,Mostrar efecto visual de fallo
-"replace ""hit"" with ""miss"" in the description of the setting above this one","replace ""hit"" with ""miss"" in the description of the setting above this one",この上の設定の説明の「ヒット」を「ミス」に置き換える。,"remplace ""hit"" avec ""miss"" dans la description du paramètre","sustituye ""golpe"" por ""fallo"" en la descripción del ajuste superior"
-Replays & Recording,Replays & Recording,録画とリプレイ,Replays et enregistrement,Repeticiones y grabación
-Record Replays,Record Replays,リプレイを録画,Enregistrer replays,Grabar repeticiones
-records replays. what else did you expect...? (drag a replay file into the game to view),records replays. what else did you expect...? (drag a replay file into the game to view),リプレイを録画 (リプレイファイルをゲームにドラッグして表示する）,déposez un fichier replay sur le jeu pour le visionner,permite grabar repeticiones (desplaza un fichero sobre la ventana del juego para visualizar)
-Alt. Replay Camera,Alt. Replay Camera,カメラアングルを追加,Caméra replay alternative,Repetición en cámara alternativa
-alters the camera angle in replays - side view,alters the camera angle in replays - side view,リプレイ時のカメラアングルを横に変える,altère l'angle de la caméra dans les replays - vue côté,altera el ángulo de visualización durante las repeticiones - vista lateral
-Recording Mode,Recording Mode,録画モード,Mode d'enregistrement,Modo de grabación
-Legacy,Legacy,レガシー,Classique,Clásico
-Maximise,Maximise,最高,Maximiser,Maximizar
-Minimise,Minimise,最低,Minimiser,Minimizar
-[def. Maximise] changes the method used for dynamic fps,[def. Maximise] changes the method used for dynamic fps,[デフォルト 最大] ダイナミックfpsに使用する方法を変更する。,[par défaut Maximiser] change la méthode utilisée les IPS dynamiques,[por defecto Maximizar] cambia el método utilizado para FPS dinámicos
-Recording FPS,Recording FPS,録画FPS,IPS de l'enregistrement,FPS de grabación
-[def. 30/144] changes the dynamic fps bounds of your replays,[def. 30/144] changes the dynamic fps bounds of your replays,[デフォルト 30/144] リプレイのFPS制限を変える,[par défaut 30/144] change les limites des IPS dynamiques lors de vos replays,[por defecto 30/144] cambia los límites de los FPS
-Camera & Controls,Camera & Controls,カメラと操作,Caméra et contrôles,Cámara y controles
-Sensitivity,Sensitivity,感度,Sensibilité,Sensibilidad
-[def. 1] changes how much the cursor/camera move with mouse/touch input,[def. 1] changes how much the cursor/camera move with mouse/touch input,[デフォルト 1] マウス/タッチ入力によるカーソル/カメラの感度,[par défaut 1] change à quel point la caméra bouge avec le curseur,[por defecto 1] cambia la cantidad de movimiento de la cámara respecto al cursor
-Absolute Mode,Absolute Mode,マウスロック解除,Mode absolu,Modo absoluto
-turning this on will unlock the mouse while playing - useful for tablets,turning this on will unlock the mouse while playing - useful for tablets,これをオンにすると、プレイ中にマウスのロックが解除されます - タブレットに便利,débloque le pointeur lors du jeu (utile pour les tablettes),desbloquea el cursor durante la partida (útil para tabletas)
-Disable Controller,Disable Controller,コントローラーチェックをしない,Désactiver manette,Desactivar mando
-disables controller checks when starting a song,disables controller checks when starting a song,オンにすると、曲の開始時にコントローラーのチェックを無効にする。,désactive le check des manettes lors du jeu,desactiva la comprobación de mandos al empezar a jugar
-Absolute Scale,Absolute Scale,ロック解除時の感度,Échelle absolue,Escala absoluta
-[def. 1] changes how much the cursor/camera move with absolute mode,[def. 1] changes how much the cursor/camera move with absolute mode,[デフォルト 1] マウスロックを解除した際のカーソル/カメラの感度,[par défaut 1] change à quel point la caméra bouge avec le mode absolu,[por defecto 1] cambia la cantidad de movimiento de la cámara respecto al cursor en modo absoluto
-Camera Mode Presets,Camera Mode Presets,カメラモードのプリセット,Presets pour la caméra,Presets para la cámara
-Half-lock,Half-lock,半固定,Half-lock,Half-lock
-Full-lock,Full-lock,全固定,Full-lock,Full-lock
-Reverse-lock,Reverse-lock,逆固定,Reverse-lock,Reverse-lock
-Spin,Spin,スピン,Spin,Spin
-Half-lock (faraway),Half-lock (faraway),半固定（遠い）,Half-lock (lointain),Half-lock (lejano)
-,Full-lock (faraway),全固定（遠い）,Full-lock (lointain),Full-lock (lejano)
-,Reverse-lock (faraway),逆固定（遠い）,Reverse-lock (lointain),Reverse-lock (lejano)
-Spin-lock (mid-pivot),Spin-lock (mid-pivot),スピン（真ん中固定）,Spin-lock (semi-pivot),Spin-lock (pivote central)
-Camera Parallax,Camera Parallax,視差,Parallax de la caméra,Parallax de la cámara
-how much the camera moves with the cursor - affects everything,how much the camera moves with the cursor - affects everything,カーソルとカメラの移動量 - すべてに影響する,change à quel point la caméra bouge avec le curseur - affecte le parallax du HUD,cambia la cantidad de movimiento de la cámara respecto al cursor (afecta a toda la pantalla)
-HUD Parallax,HUD Parallax,HUD視差,Parallax du HUD,Parallax del HUD
-how much the hud moves with the cursor - added on top of camera parallax,how much the hud moves with the cursor - added on top of camera parallax,カーソルと一緒にHUDがどれだけ動くか - カメラ視差の上に追加される,à quel point le HUD bouge avec le curseur,cambia la cantidad de movimiento del HUD respecto al cursor (añadido al parallax de la cámara)
-Grid Parallax,Grid Parallax,HUD視差,Parallax de la grille,Parallax de la cuadrícula
-how much the note grid moves with the cursor - added on top of camera parallax,how much the note grid moves with the cursor - added on top of camera parallax,カーソルとノートのグリッドの移動量 - カメラ視差に追加,à quel point la grille de notes bouge avec le curseur,cambia la cantidad de movimiento de la cuadrícula respecto al cursor (añadido al parallax de la cámara)
-Camera Unlock,Camera Unlock,カメラのロックを解除,Débloquer caméra,Desbloquear cámara
-"enables camera rotation - aka ""spin""","enables camera rotation - aka ""spin""",カメラの回転を有効にする - スピン,"active la rotation de la caméra (""spin"")","activa la rotación de la cámara (modo ""spin"")"
-Faraway Hud,Faraway Hud,HUDを離す,HUD lointain,HUD lejano
-moves the HUD back by 10 grid units (20 studs) and makes it larger,moves the HUD back by 10 grid units (20 studs) and makes it larger,HUDを10グリッド単位（20スタッド）後退させ、大きくする。,pousse et enlarge le HUD de 10 unités de la grille (20 mètres),mueve el HUD 10 unidades de cuadrícula hacia atrás (20 metros)
-Edge Buffer (Drift),Edge Buffer (Drift),エッジバッファ (ドリフト),Drift du rebord,Derrape sobre bordes
-"[def. 0] aka cursor drift; makes the cursor ""stick"" to the edges by letting it move slightly past the edges","[def. 0] aka cursor drift; makes the cursor ""stick"" to the edges by letting it move slightly past the edges",[def. 0] 別名カーソルドリフト; カーソルをエッジから少しはみ出させることで、エッジに「くっつく」ようにする。,"[par défaut 0] aussi connu en tant que ""cursor drift"", donne l'impression que le curseur se ""colle"" au rebords en le laissant les dépasser","[por defecto 0] conocido como ""cursor drift"", hace que el cursor se adhiera a los bordes haciendo que se mueva ligeramente a través de ellos"
-Buffer Cursor,Buffer Cursor,バッファカーソル,Vrai curseur,Cursor verdadero
-"shows a mini cursor at the ""real"" position when you enter the edge buffer","shows a mini cursor at the ""real"" position when you enter the edge buffer","エッジバッファに入ると、""実際の""位置にミニカーソルが表示される。","montre un mini curseur à la ""vraie"" position lorsque vous sortez du rebord","muestra un mini cursor en la posición ""real"" cuando derrapas sobre un borde"
-Follow Buffer Cursor,Follow Buffer Cursor,ドリフトに付いて行く,Suivre vrai curseur,Seguir cursor verdadero
+Ripple* (no color),Ripple* (no color),画像* (無色),Onde* (sans couleurs),Onda* (incoloro),Sóng* (ko màu)
+Ripple* (note color),Ripple* (note color),画像* (ノーツの色),Onde* (couleur des notes),Onda* (color de nota),Sóng* (màu nốt)
+Ripple* (rainbow),Ripple*(rainbow),画像* (虹色),Onde* (arc-en-ciel),Onda* (arcoiris),Sóng* (cầu vồng)
+Shards (note color),Shards (note color),破片 (ノーツの色),Éclats* (couleur des notes),Fragmentos* (color de nota),Vỡ* (màu nốt)
+Shards (rainbow),Shards (rainbow),破片 (虹色),Éclats* (arc-en-ciel),Fragmentos* (arcoiris), Vỡ* (cầu vồng)
+Shards (no color),Shards (no color),破片 (無色),Éclats* (sans couleurs),Fragmentos* (incoloro), Vỡ* (ko màu)
+Miss* (red),Miss* (red),ミス* (赤),Raté* (rouge),Fallo* (rojo),Trượt* (dấu X đỏ)
+Miss* (note color),Miss* (note color),ミス* (ノーツの色),Raté* (couleur des notes),Fallo* (color de nota),Trượt* (màu nốt)
+Miss* (rainbow),Miss* (rainbow),ミス* (虹色),Raté* (arc-en-ciel),Fallo* (arcoiris),Trượt* (cầu vồng)
+Miss* (no color),Miss* (no color),ミス* (無色),Raté* (sans couleurs),Fallo* (incoloro),Trượt* (ko màu)
+Hit Effect,Hit Effect,ヒットエフェクト,Hit effect,Efecto de golpe,Hiệu ứng nhấn
+effect played when you hit a note,effect played when you hit a note,ノーツを打った際のエフェクト,effet joué quand tu touches une note,el efecto visual al golpear una nota,hiệu ứng khi bạn nhấn 1 nốt
+Show Hit Effect,Show Hit Effect,ヒットエフェクトを表示,Montrer hit effect,Mostrar efecto visual,Hiện hiệu ứng nhấn
+plays your selected hit effect when you hit a note,plays your selected hit effect when you hit a note,ノーツを打った際に選択したヒット・エフェクトを再生する,joue l'hit effect selectionné quand tu touche une note,muestra el efecto seleccionado al golpear una nota,hiện hiệu ứng nhấn đã chọn khi bạn nhấn 1 nốt
+Hit Effect at Cursor,Hit Effect at Cursor,カーソルヒットエフェクトを表示,Hit effect au curseur,Efecto visual sobre el cursor,Hiệu ứng nhấn tại con trỏ
+hit effects will appear at the center of notes when this is off,hit effects will appear at the center of notes when this is off,これがオフの場合、ヒットエフェクトがノーツの中央に表示されます。,les hit effects apparaîtront au centre des notes si cette option est désactivé,el efecto visual aparecerá en el centro de las notas golpeadas si esta opción está desactivada,hiệu ứng nhấn sẽ xuất hiện tại tâm nốt nếu tắt
+Approach Squares,Approach Squares,アプローチガイド,Carré d'approche,Cuadrado de proximidad,Hình vuông tiếp cận
+squares on the grid that show note approach - similar to the circles in osu!,squares on the grid that show note approach - similar to the circles in osu!,ノーツの接近を示すグリッド上の正方形 - Osu!のサークルに似ています！,carré sur la grille qui représente la vitesse d'approche des notes - similaire aux cercles dans osu!,aparecerán cuadrados en la pantalla que representan la velocidad de aproximación - como en osu!,hình vuông trên lưới hiển thị vòng tiếp cận nốt - giống mấy vòng tròn trên osu!,
+Approach Follow,Approach Follow,アプローチフォロー,Suivie d'approche,Aproximación con seguimiento,Tiếp cận theo nốt
+makes it so the approach squares lock to the note,makes it so the approach squares lock to the note,アプローチガイドがノーツについていく,fait que les carrés d'approche se verouille aux notes,hace que los cuadrados de proximidad se posicionen sobre la nota,làm cho hình vuông tiếp cận di chuyển cùng nốt
+Miss Effect Image,Miss Effect Image,ミスエフェクトの画像,Image miss effect,Imagen de efecto visual de fallo,Hình ảnh hiệu ứng trượt
+"same as above, but applies to your miss effect instead","same as above, but applies to your miss effect instead",上記と同じだが、代わりに自分のミス効果に適用される。,"même chose, sauf que ça s'applique au miss effect","lo mismo que arriba, pero aplicada al efecto de fallo","giống cái trên, nhưng cho hiệu ứng trượt"
+Miss Effect,Miss Effect,ミスエフェクト,Miss effect,Efecto de fallo,Hiệu ứng trượt
+hit effect but when you don't,hit effect but when you don't,ミスした時のエフェクト,hit effect mais pas,efecto de golpe pero va a ser que no,hiệu ứng khi bạn ko nhấn
+Ripple* (no color),Ripple* (no color),画像* (無色),Onde* (sans couleurs),Onda* (incoloro),Sóng* (ko màu)
+Ripple* (note color),Ripple* (note color),画像* (ノーツの色),Onde* (couleur des notes),Onda* (color de nota),Sóng* (màu nốt)
+Ripple* (rainbow),Ripple* (rainbow),画像* (虹色),Onde* (arc-en-ciel),Onda* (arcoiris),Sóng* (cầu vồng)
+Shards (note color),Shards (note color),破片 (ノーツの色),Éclats* (couleur des notes),Fragmentos* (color de nota),Vỡ* (màu nốt)
+Shards (rainbow),Shards (rainbow),破片 (虹色),Éclats* (arc-en-ciel),Fragmentos* (arcoiris),Vỡ* (cầu vồng)
+Shards (no color),Shards (no color),破片 (無色),Éclats* (sans couleurs),Fragmentos* (incoloro),Vỡ* (ko màu)
+Miss* (red),Miss* (red),ミス* (赤),Raté* (rouge),Fallo* (rojo),Trượt* (dấu X đỏ)
+Miss* (note color),Miss* (note color),ミス* (ノーツの色),Raté* (couleur des notes),Fallo* (color de nota),Trượt* (màu nốt)
+Miss* (rainbow),Miss* (rainbow),ミス* (虹色),Raté* (arc-en-ciel),Fallo* (arcoiris),Trượt* (cầu vồng)
+Miss* (no color),Miss* (no color),ミス* (無色),Raté* (sans couleurs),Fallo* (incoloro),Trượt* (ko màu)
+Show Miss Effect,Show Miss Effect,ミスエフェクトを表示,Afficher miss effect,Mostrar efecto visual de fallo,Hiện hiệu ứng trượt
+"replace ""hit"" with ""miss"" in the description of the setting above this one","replace ""hit"" with ""miss"" in the description of the setting above this one",この上の設定の説明の「ヒット」を「ミス」に置き換える。,"remplace ""hit"" avec ""miss"" dans la description du paramètre","sustituye ""golpe"" por ""fallo"" en la descripción del ajuste superior","thay ""nhấn"" với ""trượt"" ở mô tả cài đặt trên"
+Replays & Recording,Replays & Recording,録画とリプレイ,Replays et enregistrement,Repeticiones y grabación,Phát lại & Ghi
+Record Replays,Record Replays,リプレイを録画,Enregistrer replays,Grabar repeticiones,Lưu bản phát lại
+records replays. what else did you expect...? (drag a replay file into the game to view),records replays. what else did you expect...? (drag a replay file into the game to view),リプレイを録画 (リプレイファイルをゲームにドラッグして表示する）,déposez un fichier replay sur le jeu pour le visionner,permite grabar repeticiones (desplaza un fichero sobre la ventana del juego para visualizar),lưu bản phát lại. thế thôi. (kéo file bản phát lại vào game để xem)
+Alt. Replay Camera,Alt. Replay Camera,カメラアングルを追加,Caméra replay alternative,Repetición en cámara alternativa,Xem lại với góc nhìn khác
+alters the camera angle in replays - side view,alters the camera angle in replays - side view,リプレイ時のカメラアングルを横に変える,altère l'angle de la caméra dans les replays - vue côté,altera el ángulo de visualización durante las repeticiones - vista lateral,thay đổi góc camera trong các bản phát lại
+Recording Mode,Recording Mode,録画モード,Mode d'enregistrement,Modo de grabación,Chế độ ghi
+Legacy,Legacy,レガシー,Classique,Clásico,Cũ
+Maximise,Maximise,最高,Maximiser,Maximizar,Maximise
+Minimise,Minimise,最低,Minimiser,Minimizar,Minimise
+[def. Maximise] changes the method used for dynamic fps,[def. Maximise] changes the method used for dynamic fps,[デフォルト 最大] ダイナミックfpsに使用する方法を変更する。,[par défaut Maximiser] change la méthode utilisée les IPS dynamiques,[por defecto Maximizar] cambia el método utilizado para FPS dinámicos,[mđ. Maximise] đổi cách sử dụng cho fps động
+Recording FPS,Recording FPS,録画FPS,IPS de l'enregistrement,FPS de grabación,FPS ghi 
+[def. 30/144] changes the dynamic fps bounds of your replays,[def. 30/144] changes the dynamic fps bounds of your replays,[デフォルト 30/144] リプレイのFPS制限を変える,[par défaut 30/144] change les limites des IPS dynamiques lors de vos replays,[por defecto 30/144] cambia los límites de los FPS,[mđ. 30/144] Thay đổi giới hạn FPS động cho các bản xem lại của bạn
+Camera & Controls,Camera & Controls,カメラと操作,Caméra et contrôles,Cámara y controles,Camera & Điều khiển
+Sensitivity,Sensitivity,感度,Sensibilité,Sensibilidad,Độ nhạy
+[def. 1] changes how much the cursor/camera move with mouse/touch input,[def. 1] changes how much the cursor/camera move with mouse/touch input,[デフォルト 1] マウス/タッチ入力によるカーソル/カメラの感度,[par défaut 1] change à quel point la caméra bouge avec le curseur,[por defecto 1] cambia la cantidad de movimiento de la cámara respecto al cursor,[mđ. 1] thay đổi mức độ con trỏ/camera di chuyển với chuột/cảm ứng
+Absolute Mode,Absolute Mode,マウスロック解除,Mode absolu,Modo absoluto,Mở khoá chuột
+turning this on will unlock the mouse while playing - useful for tablets,turning this on will unlock the mouse while playing - useful for tablets,これをオンにすると、プレイ中にマウスのロックが解除されます - タブレットに便利,débloque le pointeur lors du jeu (utile pour les tablettes),desbloquea el cursor durante la partida (útil para tabletas),bật cái này lên sẽ mở khoá chuột khi đang chơi - hữu dụng khi chơi bằng tablet
+Disable Controller,Disable Controller,コントローラーチェックをしない,Désactiver manette,Desactivar mando,
+disables controller checks when starting a song,disables controller checks when starting a song,オンにすると、曲の開始時にコントローラーのチェックを無効にする。,désactive le check des manettes lors du jeu,desactiva la comprobación de mandos al empezar a jugar,
+Absolute Scale,Absolute Scale,ロック解除時の感度,Échelle absolue,Escala absoluta,Độ nhạy khi mở khoá chuột
+[def. 1] changes how much the cursor/camera move with absolute mode,[def. 1] changes how much the cursor/camera move with absolute mode,[デフォルト 1] マウスロックを解除した際のカーソル/カメラの感度,[par défaut 1] change à quel point la caméra bouge avec le mode absolu,[por defecto 1] cambia la cantidad de movimiento de la cámara respecto al cursor en modo absoluto,[mđ. 1] thay đổi mức độ con trỏ/camera di chuyển với chế độ mở khoá chuột
+Camera Mode Presets,Camera Mode Presets,カメラモードのプリセット,Presets pour la caméra,Presets para la cámara,
+Half-lock,Half-lock,半固定,Half-lock,Half-lock,
+Full-lock,Full-lock,全固定,Full-lock,Full-lock,
+Reverse-lock,Reverse-lock,逆固定,Reverse-lock,Reverse-lock,
+Spin,Spin,スピン,Spin,Spin,
+Half-lock (faraway),Half-lock (faraway),半固定（遠い）,Half-lock (lointain),Half-lock (lejano),
+,Full-lock (faraway),全固定（遠い）,Full-lock (lointain),Full-lock (lejano),
+,Reverse-lock (faraway),逆固定（遠い）,Reverse-lock (lointain),Reverse-lock (lejano),
+Spin-lock (mid-pivot),Spin-lock (mid-pivot),スピン（真ん中固定）,Spin-lock (semi-pivot),Spin-lock (pivote central),
+Camera Parallax,Camera Parallax,視差,Parallax de la caméra,Parallax de la cámara,
+how much the camera moves with the cursor - affects everything,how much the camera moves with the cursor - affects everything,カーソルとカメラの移動量 - すべてに影響する,change à quel point la caméra bouge avec le curseur - affecte le parallax du HUD,cambia la cantidad de movimiento de la cámara respecto al cursor (afecta a toda la pantalla),
+HUD Parallax,HUD Parallax,HUD視差,Parallax du HUD,Parallax del HUD,
+how much the hud moves with the cursor - added on top of camera parallax,how much the hud moves with the cursor - added on top of camera parallax,カーソルと一緒にHUDがどれだけ動くか - カメラ視差の上に追加される,à quel point le HUD bouge avec le curseur,cambia la cantidad de movimiento del HUD respecto al cursor (añadido al parallax de la cámara),
+Grid Parallax,Grid Parallax,HUD視差,Parallax de la grille,Parallax de la cuadrícula,
+how much the note grid moves with the cursor - added on top of camera parallax,how much the note grid moves with the cursor - added on top of camera parallax,カーソルとノートのグリッドの移動量 - カメラ視差に追加,à quel point la grille de notes bouge avec le curseur,cambia la cantidad de movimiento de la cuadrícula respecto al cursor (añadido al parallax de la cámara),
+Camera Unlock,Camera Unlock,カメラのロックを解除,Débloquer caméra,Desbloquear cámara,
+"enables camera rotation - aka ""spin""","enables camera rotation - aka ""spin""",カメラの回転を有効にする - スピン,"active la rotation de la caméra (""spin"")","activa la rotación de la cámara (modo ""spin"")",
+Faraway Hud,Faraway Hud,HUDを離す,HUD lointain,HUD lejano,
+moves the HUD back by 10 grid units (20 studs) and makes it larger,moves the HUD back by 10 grid units (20 studs) and makes it larger,HUDを10グリッド単位（20スタッド）後退させ、大きくする。,pousse et enlarge le HUD de 10 unités de la grille (20 mètres),mueve el HUD 10 unidades de cuadrícula hacia atrás (20 metros),
+Edge Buffer (Drift),Edge Buffer (Drift),エッジバッファ (ドリフト),Drift du rebord,Derrape sobre bordes,
+"[def. 0] aka cursor drift; makes the cursor ""stick"" to the edges by letting it move slightly past the edges","[def. 0] aka cursor drift; makes the cursor ""stick"" to the edges by letting it move slightly past the edges",[def. 0] 別名カーソルドリフト; カーソルをエッジから少しはみ出させることで、エッジに「くっつく」ようにする。,"[par défaut 0] aussi connu en tant que ""cursor drift"", donne l'impression que le curseur se ""colle"" au rebords en le laissant les dépasser","[por defecto 0] conocido como ""cursor drift"", hace que el cursor se adhiera a los bordes haciendo que se mueva ligeramente a través de ellos",
+Buffer Cursor,Buffer Cursor,バッファカーソル,Vrai curseur,Cursor verdadero,
+"shows a mini cursor at the ""real"" position when you enter the edge buffer","shows a mini cursor at the ""real"" position when you enter the edge buffer","エッジバッファに入ると、""実際の""位置にミニカーソルが表示される。","montre un mini curseur à la ""vraie"" position lorsque vous sortez du rebord","muestra un mini cursor en la posición ""real"" cuando derrapas sobre un borde",
+Follow Buffer Cursor,Follow Buffer Cursor,ドリフトに付いて行く,Suivre vrai curseur,Seguir cursor verdadero,
 makes the parallax follow the buffer cursor instead of the real one,makes the parallax follow the buffer cursor instead of the real one,視差をドリフトカーソルに合わせる,fait en sorte que le parallax suit le vrai curseur,hace que el parallax siga al cursor verdadero 
-Field of View,Field of View,視野（FOV),Champ de vision,Campo de visión (FOV)
-[def. 70] you know what this does,[def. 70] you know what this does,[デフォルト 70] これが何を意味するか、あなたは知っている。,[par défaut 70],[por defecto 70] deberías saber lo que hace
-Hit FOV,Hit FOV,ヒットFOV,Champ de vision hit,Efecto de golpeo FOV
+Field of View,Field of View,視野（FOV),Champ de vision,Campo de visión (FOV),
+[def. 70] you know what this does,[def. 70] you know what this does,[デフォルト 70] これが何を意味するか、あなたは知っている。,[par défaut 70],[por defecto 70] deberías saber lo que hace,
+Hit FOV,Hit FOV,ヒットFOV,Champ de vision hit,Efecto de golpeo FOV,
 enables a FOV (Field of View) pulse when you hit a note,enables a FOV (Field of View) pulse when you hit a note,ノーツを打つと視野がぶれる,active une pulsation du champ de vision lorsque vous touchez une note,activa un efecto pulso en el campo de visión al golpear una nota
-Hit FOV Modes,Hit FOV Modes,ヒットFOVモード,Modes champ de vision hit,Modos de efecto de golpeo FOV
-Normal,Normal,ノーマル,Normal,Normal
-Additive,Additive,累積,Additif,Aditivo
-Exponential,Exponential,指数増加,Exponentiel,Exponencial
-Mode: Additive,Mode: Additive,モード: 累積,Mode: additif,Modo: aditivo
+Hit FOV Modes,Hit FOV Modes,ヒットFOVモード,Modes champ de vision hit,Modos de efecto de golpeo FOV,
+Normal,Normal,ノーマル,Normal,Normal,
+Additive,Additive,累積,Additif,Aditivo,
+Exponential,Exponential,指数増加,Exponentiel,Exponencial,
+Mode: Additive,Mode: Additive,モード: 累積,Mode: additif,Modo: aditivo,
 Hit FOV Amplifier,Hit FOV Amplifier,ヒットFOVの強さ,Amplifieur champ de vision hit,Amplificador del efecto de golpeo FOV
 [def. 2] how intense is the hit FOV pulsing is,[def. 2] how intense is the hit FOV pulsing is,[デフォルト 2] ノーツをヒットした時のFOV反動の強さ,[par défaut 2] l'intensité du champ de vision hit,[por defecto 2] intensidad del pulso en el campo de visión
 Hit FOV Decay,Hit FOV Decay,ヒットFOVの減衰,Diminution champ de vision hit,Desvanecimiento del efecto de golpeo FOV
@@ -504,23 +504,23 @@ Please wait...,Please wait...,LOADING...,Chargement...,Cargando...
 Exit,Exit,戻る,Quitter,Salir
 Select Profile,Select Profile,プリセットを選ぶ,Sélectionner le profil,Seleccionar perfil
 Create/Overwrite From Current,Create/Overwrite From Current,作ると交換する,Créer/écraser de l'actuel,Crear / sobreescribir actual
-Gameplay,Gameplay,ゲームプレイ,Gameplay,Gameplay
-World & Cursor,World & Cursor,スペースとカーソル,Monde et curseur,Mundo y cursor
-UI,UI,UI,UI,UI
-Video & Audio,Video & Audio,ビデオとオーディオ,Vidéo et audio,Video y audio
-Replays & Misc,Replays & Misc,リプレイとその他,Replays et divers,Repeticiones y misceláneos
-Loading Menu,Loading Menu,,Chargement du menu,Cargando menú
-Loading,Loading,,Chargement,Cargando 
-Mapper,Mapper,マッパ,Auteur,Autor
-Artist Name - Song Name,Artist Name - Song Name,アーティスト　ー　曲名,Nom de l'artiste - Nom de la musique,Nombre del artista - Nombre de la canción
-Difficulty,Difficulty,難易度,Difficulté,Dificultad
-Restart on Death,Restart on Death,死亡時リトライ,Rejouer après échec,Comenzar de nuevo al morir
-restarts the map upon death instead of returning to menu,restarts the map upon death instead of returning to menu,死亡時にメニューに戻らずリトライ,rejoue la map après un échec au lieu de charger le menu,vuelve a jugar el mapa al morir en lugar de volver al menú
-Glow,Glow,発光,Brilliance,Brillo
-[def. 0] sets intensity of glow,[def. 0] sets intensity of glow,発光強度を設定する,[par défaut 0],[por defecto 0]
-Bloom,Bloom,光放射,Éblouissement,Resplandor
-[def. 0] sets bloom amount,[def. 0] sets bloom amount,光放射量を設定する,[par défaut 0],[por defecto 0]
-VHS Shader,VHS Shader,VHSエフェクト,Shader VHS,Sombreado VHS
-applies a vhs effect to the camera,applies a vhs effect to the camera,カメラのVHSエフェクトを有効にする,applique un effet VHS,aplica un efecto VHS
-Expand HUD on HR,Expand HUD on HR,ハードロックでHUDをリサイズする,Agrandir le HUD avec HardRock,Expandir el HUD con HardRock
-expands the HUD when using Hard Rock,expands the HUD when using Hard Rock,ハードロックを有効にするとHUDのサイズが大きくなります,agrandi le HUD proportionellement lorsque le modificateur HardRock est sélectionné,expande el HUD al utilizar HardRock
+Gameplay,Gameplay,ゲームプレイ,Gameplay,Gameplay,Gameplay
+World & Cursor,World & Cursor,スペースとカーソル,Monde et curseur,Mundo y cursor,Thế giới & Con trỏ
+UI,UI,UI,UI,UI,UI
+Video & Audio,Video & Audio,ビデオとオーディオ,Vidéo et audio,Video y audio,Video & Âm thanh
+Replays & Misc,Replays & Misc,リプレイとその他,Replays et divers,Repeticiones y misceláneos,Phát lại & Khác
+Loading Menu,Loading Menu,,Chargement du menu,Cargando menú,Đang tải menu
+Loading,Loading,,Chargement,Cargando,Đang tải
+Mapper,Mapper,マッパ,Auteur,Autor,Tác giả
+Artist Name - Song Name,Artist Name - Song Name,アーティスト　ー　曲名,Nom de l'artiste - Nom de la musique,Nombre del artista - Nombre de la canción,Tên tác giả - Tên nhạc
+Difficulty,Difficulty,難易度,Difficulté,Dificultad,Độ khó
+Restart on Death,Restart on Death,死亡時リトライ,Rejouer après échec,Comenzar de nuevo al morir,Bắt đầu lại khi chết
+restarts the map upon death instead of returning to menu,restarts the map upon death instead of returning to menu,死亡時にメニューに戻らずリトライ,rejoue la map après un échec au lieu de charger le menu,vuelve a jugar el mapa al morir en lugar de volver al menú,bắt đầu lại map khi chết thay vì quay lại menu
+Glow,Glow,発光,Brilliance,Brillo,
+[def. 0] sets intensity of glow,[def. 0] sets intensity of glow,発光強度を設定する,[par défaut 0],[por defecto 0],[mđ. 0] đặt cường độ cho 
+Bloom,Bloom,光放射,Éblouissement,Resplandor,
+[def. 0] sets bloom amount,[def. 0] sets bloom amount,光放射量を設定する,[par défaut 0],[por defecto 0],[mđ. 0] đặt bloom amount
+VHS Shader,VHS Shader,VHSエフェクト,Shader VHS,Sombreado VHS,Shader VHS
+applies a vhs effect to the camera,applies a vhs effect to the camera,カメラのVHSエフェクトを有効にする,applique un effet VHS,aplica un efecto VHS,áp dụng hiệu ứng vhs vào camera
+Expand HUD on HR,Expand HUD on HR,ハードロックでHUDをリサイズする,Agrandir le HUD avec HardRock,Expandir el HUD con HardRock,Mở rộng HUD ở HR
+expands the HUD when using Hard Rock,expands the HUD when using Hard Rock,ハードロックを有効にするとHUDのサイズが大きくなります,agrandi le HUD proportionellement lorsque le modificateur HardRock est sélectionné,expande el HUD al utilizar HardRock,mở rộng HUD khi bật Hard Rock
