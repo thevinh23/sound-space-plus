@@ -30,7 +30,7 @@ Hard Mode,Hard Mode,ハードモード,Mode difficile,Modo difícil,Chế độ 
 Mirror X,Mirror X,X軸反転,Miroir X,Reflejo X,Lật trục X
 Mirror Y,Mirror Y,Y軸反転,Miroir Y,Reflejo Y, Lật trục Y
 Earthquake,Earthquake,地震,Tremblement,Terremoto,Động đất
-Ghost,Ghost,ゴースト,Dissipation,Desvanecimiento,Bóng ma
+Ghost,Ghost,ゴースト,Dissipation,Desvanecimiento,Mờ dần
 Chaos,Chaos,カオスモード,Chaos,Caos,Hỗn loạn
 Visual Map Mode,Visual Map Mode,シアターモード,Mode map visuelle,Modo mapa visual,Chơi tự động
 Flashlight,Flashlight,フラッシュライト,Lampe Torche,Linterna,Tầm nhìn hạn chế
@@ -77,21 +77,21 @@ Note Scale,Note Scale,ノーツの大きさ,Échelle des notes,Escala de las not
 [def. 1] the visual size of the notes (doesn't affect hitboxes),[def. 1] the visual size of the notes (doesn't affect hitboxes),ノーツの視覚的な大きさ（ヒットボックスには影響しない）,[par défaut 1] la taille visuelle des notes (n'affecte pas les hitboxs),[por defecto 1] tamaño visual (no afecta al hitbox),[mđ. 1] kích thước trực quan của nốt (ko ảnh hưởng đến hitbox)
 Note Opacity,Note Opacity,ノーツの透明度,Opacité des notes,Opacidad de las notas,Độ mờ nốt
 [def. 100%] how opaque/transparent/visible the note appears,[def. 100%] how opaque/transparent/visible the note appears,[デフォルト 100%] ノーツの不透明度/視認性,[par défaut 100%] à quel point les notes apparaitront opaque/transparante/visible,[por defecto 100%] cómo de opacas / transparentes / visibles se ven las notas,[mđ. 100%] độ mờ/trong suốt/dễ nhìn của nốt
-Approach Rate,Approach Rate,接近速度,Vitesse d'approche (AR),Velocidad de aproximación (AR)
-[def. 40] the speed that notes move towards the grid. (note: this will be half of your AR in ss/vulnus),[def. 40] the speed that notes move towards the grid. (note: this will be half of your AR in ss/vulnus),[デフォルト 40] ノーツがグリッドに向かって移動する速度。(注：ss/vulnusではARの半分になります。）,[par défaut 40] la vitesse a laquelle les notes arrivent vers la grille (note : elle sera la moitié de ton AR (Approch Rate) sur Sound Space/Vulnus),[por defecto 40] la velocidad con que se aproximan las notas a la cuadrícula
-Spawn Distance,Spawn Distance,ノーツの出現距離,Distance d'apparition (SD),Distancia de aparición (SD)
-[def. 40] distance from the grid that notes spawn (approach time = SD/AR),[def. 40] distance from the grid that notes spawn (approach time = SD/AR),[デフォルト 40］ノーツがスポーンするグリッドからの距離（接近速度＝SD/AR）,[par défaut 40] la distance a laquelle les notes apparaîtront de la grille (temps d'approche = SD/AR),[por defecto 40] la distancia a la que las notas aparecen desde la cuadrícula (AR/SD = tiempo de aproximación)
-Fade Length,Fade Length,ノーツの出現時間,Durée d'apparition,Duración de aparición
-[def. 50%] percentage of the spawn distance that notes take to fade from invisible to fully opaque,[def. 50%] percentage of the spawn distance that notes take to fade from invisible to fully opaque,[デフォルト 50％] ノーツが透明から完全に不透明になるまでのスポーン距離のパーセンテージ,[par défaut 50%] le pourcentage de la distance d'apparition que les notes prennent pour apparaître d'invisible à opaque,[por defecto 50%] el porcentaje de la distancia de aparición que tardan las noas en pasar de invisibles a opacas
-Do Note Pushback,Do Note Pushback,ノーツプッシュバック,Repoussement des notes,Haz retroceder las notas
-"while enabled, notes will go past the grid when you miss, instead of always vanishing 0.1 units past the grid","while enabled, notes will go past the grid when you miss, instead of always vanishing 0.1 units past the grid",有効になっている場合、ミスしたときにノーツがグリッドを通り過ぎる。,"si activé, les notes passeront à travers la grille pour chaque notes raté, au lieu de disparaitre à 0.1 unités après la grille","si está activo, las notas pasarán a través de la cuadrícula cuando falles, en lugar de desaparecer 0.1 unidades pasada la cuadrícula"
-Half Ghost,Half Ghost,半透明,Demi-dissipation,Medio-desvanecimiento
-useful for patterns that fill the whole screen,useful for patterns that fill the whole screen,画面全体にノーツがあるときに役立つ,utile pour des patternes quit remplisse l'écran,útil para patrones que cubren toda la pantalla
-Note Spawn Effect,Note Spawn Effect,ノーツの出現エフェクト,Effet d'apparition des notes,Efecto de aparición de las notas
-"alright, fine. no distractions for you.","alright, fine. no distractions for you.",気が散らない！,pas de distractions :D,no tendrás nada para distraerte :)
-Hit Effect Image,Hit Effect Image,ヒットエフェクトのイメージ,Image hit effect,Imagen de efecto visual de golpe
-Click to replace,Click to replace,クリックで置き換え,Cliquer pour remplacer,Haz click para reemplazar
-this image is used by hit effects with an asterisk (*) in their name,this image is used by hit effects with an asterisk (*) in their name,この画像は、名前にアスタリスク（*）が含まれるヒットエフェクトで使用されます。,cette image est utilisé par les hit effect avec un astérisque (*) dans leur nom,esta imagen es utilizada por los efectos visuales de golpe con un asterisco (*) en su nombre
+Approach Rate,Approach Rate,接近速度,Vitesse d'approche (AR),Velocidad de aproximación (AR),Tốc độ xuất hiện
+[def. 40] the speed that notes move towards the grid. (note: this will be half of your AR in ss/vulnus),[def. 40] the speed that notes move towards the grid. (note: this will be half of your AR in ss/vulnus),[デフォルト 40] ノーツがグリッドに向かって移動する速度。(注：ss/vulnusではARの半分になります。）,[par défaut 40] la vitesse a laquelle les notes arrivent vers la grille (note : elle sera la moitié de ton AR (Approch Rate) sur Sound Space/Vulnus),[por defecto 40] la velocidad con que se aproximan las notas a la cuadrícula,[mđ. 40] tốc độ nốt di chuyển về phía lưới (ghi chú: đây sẽ là một nửa AR của bạn trong ss/vulnus)
+Spawn Distance,Spawn Distance,ノーツの出現距離,Distance d'apparition (SD),Distancia de aparición (SD),Khoảng cách xuất hiện
+[def. 40] distance from the grid that notes spawn (approach time = SD/AR),[def. 40] distance from the grid that notes spawn (approach time = SD/AR),[デフォルト 40］ノーツがスポーンするグリッドからの距離（接近速度＝SD/AR）,[par défaut 40] la distance a laquelle les notes apparaîtront de la grille (temps d'approche = SD/AR),[por defecto 40] la distancia a la que las notas aparecen desde la cuadrícula (AR/SD = tiempo de aproximación),[mđ. 40] khoảng cách từ lưới mà nốt xuất hiện (thời gian xuất hiện = SD/AR)
+Fade Length,Fade Length,ノーツの出現時間,Durée d'apparition,Duración de aparición,Thời lượng xuất hiện
+[def. 50%] percentage of the spawn distance that notes take to fade from invisible to fully opaque,[def. 50%] percentage of the spawn distance that notes take to fade from invisible to fully opaque,[デフォルト 50％] ノーツが透明から完全に不透明になるまでのスポーン距離のパーセンテージ,[par défaut 50%] le pourcentage de la distance d'apparition que les notes prennent pour apparaître d'invisible à opaque,[por defecto 50%] el porcentaje de la distancia de aparición que tardan las noas en pasar de invisibles a opacas,[mđ. 50%] phần trăm của khoảng cách xuất hiện mà nốt cần để fade từ vô hình đến hoàn toàn xuất hiện
+Do Note Pushback,Do Note Pushback,ノーツプッシュバック,Repoussement des notes,Haz retroceder las notas,Nốt có thể lùi về phía sau
+"while enabled, notes will go past the grid when you miss, instead of always vanishing 0.1 units past the grid","while enabled, notes will go past the grid when you miss, instead of always vanishing 0.1 units past the grid",有効になっている場合、ミスしたときにノーツがグリッドを通り過ぎる。,"si activé, les notes passeront à travers la grille pour chaque notes raté, au lieu de disparaitre à 0.1 unités après la grille","si está activo, las notas pasarán a través de la cuadrícula cuando falles, en lugar de desaparecer 0.1 unidades pasada la cuadrícula","khi bật, nốt sẽ đi về phía sau lưới khi bạn trượt"
+Half Ghost,Half Ghost,半透明,Demi-dissipation,Medio-desvanecimiento,Nửa mờ
+useful for patterns that fill the whole screen,useful for patterns that fill the whole screen,画面全体にノーツがあるときに役立つ,utile pour des patternes quit remplisse l'écran,útil para patrones que cubren toda la pantalla,hữu ích cho các họa tiết lấp đầy toàn bộ màn hình.
+Note Spawn Effect,Note Spawn Effect,ノーツの出現エフェクト,Effet d'apparition des notes,Efecto de aparición de las notas,Hiệu ứng xuất hiện nốt
+"alright, fine. no distractions for you.","alright, fine. no distractions for you.",気が散らない！,pas de distractions :D,no tendrás nada para distraerte :),"ko làm phiền =))"
+Hit Effect Image,Hit Effect Image,ヒットエフェクトのイメージ,Image hit effect,Imagen de efecto visual de golpe,Hình ảnh hiệu ứng nhấn
+Click to replace,Click to replace,クリックで置き換え,Cliquer pour remplacer,Haz click para reemplazar,Nhấp để đổi
+this image is used by hit effects with an asterisk (*) in their name,this image is used by hit effects with an asterisk (*) in their name,この画像は、名前にアスタリスク（*）が含まれるヒットエフェクトで使用されます。,cette image est utilisé par les hit effect avec un astérisque (*) dans leur nom,esta imagen es utilizada por los efectos visuales de golpe con un asterisco (*) en su nombre,ảnh này được sử dụng bởi hiệu ứng nhấn với một dấu hoa thị (*) trong tên nó
 Ripple* (no color),Ripple* (no color),画像* (無色),Onde* (sans couleurs),Onda* (incoloro)
 Ripple* (note color),Ripple* (note color),画像* (ノーツの色),Onde* (couleur des notes),Onda* (color de nota)
 Ripple* (rainbow),Ripple*(rainbow),画像* (虹色),Onde* (arc-en-ciel),Onda* (arcoiris)
