@@ -149,23 +149,23 @@ Disable Controller,Disable Controller,コントローラーチェックをしな
 disables controller checks when starting a song,disables controller checks when starting a song,オンにすると、曲の開始時にコントローラーのチェックを無効にする。,désactive le check des manettes lors du jeu,desactiva la comprobación de mandos al empezar a jugar,
 Absolute Scale,Absolute Scale,ロック解除時の感度,Échelle absolue,Escala absoluta,Độ nhạy khi mở khoá chuột
 [def. 1] changes how much the cursor/camera move with absolute mode,[def. 1] changes how much the cursor/camera move with absolute mode,[デフォルト 1] マウスロックを解除した際のカーソル/カメラの感度,[par défaut 1] change à quel point la caméra bouge avec le mode absolu,[por defecto 1] cambia la cantidad de movimiento de la cámara respecto al cursor en modo absoluto,[mđ. 1] thay đổi mức độ con trỏ/camera di chuyển với chế độ mở khoá chuột
-Camera Mode Presets,Camera Mode Presets,カメラモードのプリセット,Presets pour la caméra,Presets para la cámara,
-Half-lock,Half-lock,半固定,Half-lock,Half-lock,
-Full-lock,Full-lock,全固定,Full-lock,Full-lock,
-Reverse-lock,Reverse-lock,逆固定,Reverse-lock,Reverse-lock,
-Spin,Spin,スピン,Spin,Spin,
-Half-lock (faraway),Half-lock (faraway),半固定（遠い）,Half-lock (lointain),Half-lock (lejano),
-,Full-lock (faraway),全固定（遠い）,Full-lock (lointain),Full-lock (lejano),
-,Reverse-lock (faraway),逆固定（遠い）,Reverse-lock (lointain),Reverse-lock (lejano),
-Spin-lock (mid-pivot),Spin-lock (mid-pivot),スピン（真ん中固定）,Spin-lock (semi-pivot),Spin-lock (pivote central),
-Camera Parallax,Camera Parallax,視差,Parallax de la caméra,Parallax de la cámara,
-how much the camera moves with the cursor - affects everything,how much the camera moves with the cursor - affects everything,カーソルとカメラの移動量 - すべてに影響する,change à quel point la caméra bouge avec le curseur - affecte le parallax du HUD,cambia la cantidad de movimiento de la cámara respecto al cursor (afecta a toda la pantalla),
-HUD Parallax,HUD Parallax,HUD視差,Parallax du HUD,Parallax del HUD,
-how much the hud moves with the cursor - added on top of camera parallax,how much the hud moves with the cursor - added on top of camera parallax,カーソルと一緒にHUDがどれだけ動くか - カメラ視差の上に追加される,à quel point le HUD bouge avec le curseur,cambia la cantidad de movimiento del HUD respecto al cursor (añadido al parallax de la cámara),
-Grid Parallax,Grid Parallax,HUD視差,Parallax de la grille,Parallax de la cuadrícula,
-how much the note grid moves with the cursor - added on top of camera parallax,how much the note grid moves with the cursor - added on top of camera parallax,カーソルとノートのグリッドの移動量 - カメラ視差に追加,à quel point la grille de notes bouge avec le curseur,cambia la cantidad de movimiento de la cuadrícula respecto al cursor (añadido al parallax de la cámara),
-Camera Unlock,Camera Unlock,カメラのロックを解除,Débloquer caméra,Desbloquear cámara,
-"enables camera rotation - aka ""spin""","enables camera rotation - aka ""spin""",カメラの回転を有効にする - スピン,"active la rotation de la caméra (""spin"")","activa la rotación de la cámara (modo ""spin"")",
+Camera Mode Presets,Camera Mode Presets,カメラモードのプリセット,Presets pour la caméra,Presets para la cámara,Mẫu cài đặt camera
+Half-lock,Half-lock,半固定,Half-lock,Half-lock,Half-lock
+Full-lock,Full-lock,全固定,Full-lock,Full-lock,Full-lock
+Reverse-lock,Reverse-lock,逆固定,Reverse-lock,Reverse-lock,Reverse-lock
+Spin,Spin,スピン,Spin,Spin,Spin
+Half-lock (faraway),Half-lock (faraway),半固定（遠い）,Half-lock (lointain),Half-lock (lejano),Half-lock (xa)
+,Full-lock (faraway),全固定（遠い）,Full-lock (lointain),Full-lock (lejano),Full-lock (xa)
+,Reverse-lock (faraway),逆固定（遠い）,Reverse-lock (lointain),Reverse-lock (lejano),Reverse-lock (xa)
+Spin-lock (mid-pivot),Spin-lock (mid-pivot),スピン（真ん中固定）,Spin-lock (semi-pivot),Spin-lock (pivote central),Spin-lock (xoay giữa)
+Camera Parallax,Camera Parallax,視差,Parallax de la caméra,Parallax de la cámara,Thị sai camera (Camera Parallax)
+how much the camera moves with the cursor - affects everything,how much the camera moves with the cursor - affects everything,カーソルとカメラの移動量 - すべてに影響する,change à quel point la caméra bouge avec le curseur - affecte le parallax du HUD,cambia la cantidad de movimiento de la cámara respecto al cursor (afecta a toda la pantalla),mức độ camera di chuyển với con trỏ (áp dụng cho mọi thứ)
+HUD Parallax,HUD Parallax,HUD視差,Parallax du HUD,Parallax del HUD,Thị sai HUD (HUD Parallax)
+how much the hud moves with the cursor - added on top of camera parallax,how much the hud moves with the cursor - added on top of camera parallax,カーソルと一緒にHUDがどれだけ動くか - カメラ視差の上に追加される,à quel point le HUD bouge avec le curseur,cambia la cantidad de movimiento del HUD respecto al cursor (añadido al parallax de la cámara),mức độ hud di chuyển với con trỏ (thay thế thị sai camera)
+Grid Parallax,Grid Parallax,HUD視差,Parallax de la grille,Parallax de la cuadrícula,Thị sai lưới
+how much the note grid moves with the cursor - added on top of camera parallax,how much the note grid moves with the cursor - added on top of camera parallax,カーソルとノートのグリッドの移動量 - カメラ視差に追加,à quel point la grille de notes bouge avec le curseur,cambia la cantidad de movimiento de la cuadrícula respecto al cursor (añadido al parallax de la cámara),mức độ lưới hiển thị nốt di chuyển với con trỏ (thay thế thị sai camera)
+Camera Unlock,Camera Unlock,カメラのロックを解除,Débloquer caméra,Desbloquear cámara,Mở khoá camera
+"enables camera rotation - aka ""spin""","enables camera rotation - aka ""spin""",カメラの回転を有効にする - スピン,"active la rotation de la caméra (""spin"")","activa la rotación de la cámara (modo ""spin"")","
 Faraway Hud,Faraway Hud,HUDを離す,HUD lointain,HUD lejano,
 moves the HUD back by 10 grid units (20 studs) and makes it larger,moves the HUD back by 10 grid units (20 studs) and makes it larger,HUDを10グリッド単位（20スタッド）後退させ、大きくする。,pousse et enlarge le HUD de 10 unités de la grille (20 mètres),mueve el HUD 10 unidades de cuadrícula hacia atrás (20 metros),
 Edge Buffer (Drift),Edge Buffer (Drift),エッジバッファ (ドリフト),Drift du rebord,Derrape sobre bordes,
