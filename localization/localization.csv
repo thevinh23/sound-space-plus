@@ -145,8 +145,8 @@ Sensitivity,Sensitivity,感度,Sensibilité,Sensibilidad,Độ nhạy
 [def. 1] changes how much the cursor/camera move with mouse/touch input,[def. 1] changes how much the cursor/camera move with mouse/touch input,[デフォルト 1] マウス/タッチ入力によるカーソル/カメラの感度,[par défaut 1] change à quel point la caméra bouge avec le curseur,[por defecto 1] cambia la cantidad de movimiento de la cámara respecto al cursor,[mđ. 1] thay đổi mức độ con trỏ/camera di chuyển với chuột/cảm ứng
 Absolute Mode,Absolute Mode,マウスロック解除,Mode absolu,Modo absoluto,Mở khoá chuột
 turning this on will unlock the mouse while playing - useful for tablets,turning this on will unlock the mouse while playing - useful for tablets,これをオンにすると、プレイ中にマウスのロックが解除されます - タブレットに便利,débloque le pointeur lors du jeu (utile pour les tablettes),desbloquea el cursor durante la partida (útil para tabletas),bật cái này lên sẽ mở khoá chuột khi đang chơi - hữu dụng khi chơi bằng tablet
-Disable Controller,Disable Controller,コントローラーチェックをしない,Désactiver manette,Desactivar mando,
-disables controller checks when starting a song,disables controller checks when starting a song,オンにすると、曲の開始時にコントローラーのチェックを無効にする。,désactive le check des manettes lors du jeu,desactiva la comprobación de mandos al empezar a jugar,
+Disable Controller,Disable Controller,コントローラーチェックをしない,Désactiver manette,Desactivar mando,Tắt controller
+disables controller checks when starting a song,disables controller checks when starting a song,オンにすると、曲の開始時にコントローラーのチェックを無効にする。,désactive le check des manettes lors du jeu,desactiva la comprobación de mandos al empezar a jugar,ko kiểm tra controller khi bắt đầu nhạc
 Absolute Scale,Absolute Scale,ロック解除時の感度,Échelle absolue,Escala absoluta,Độ nhạy khi mở khoá chuột
 [def. 1] changes how much the cursor/camera move with absolute mode,[def. 1] changes how much the cursor/camera move with absolute mode,[デフォルト 1] マウスロックを解除した際のカーソル/カメラの感度,[par défaut 1] change à quel point la caméra bouge avec le mode absolu,[por defecto 1] cambia la cantidad de movimiento de la cámara respecto al cursor en modo absoluto,[mđ. 1] thay đổi mức độ con trỏ/camera di chuyển với chế độ mở khoá chuột
 Camera Mode Presets,Camera Mode Presets,カメラモードのプリセット,Presets pour la caméra,Presets para la cámara,Mẫu cài đặt camera
@@ -165,19 +165,19 @@ how much the hud moves with the cursor - added on top of camera parallax,how muc
 Grid Parallax,Grid Parallax,HUD視差,Parallax de la grille,Parallax de la cuadrícula,Thị sai lưới
 how much the note grid moves with the cursor - added on top of camera parallax,how much the note grid moves with the cursor - added on top of camera parallax,カーソルとノートのグリッドの移動量 - カメラ視差に追加,à quel point la grille de notes bouge avec le curseur,cambia la cantidad de movimiento de la cuadrícula respecto al cursor (añadido al parallax de la cámara),mức độ lưới hiển thị nốt di chuyển với con trỏ (thay thế thị sai camera)
 Camera Unlock,Camera Unlock,カメラのロックを解除,Débloquer caméra,Desbloquear cámara,Mở khoá camera
-"enables camera rotation - aka ""spin""","enables camera rotation - aka ""spin""",カメラの回転を有効にする - スピン,"active la rotation de la caméra (""spin"")","activa la rotación de la cámara (modo ""spin"")","
-Faraway Hud,Faraway Hud,HUDを離す,HUD lointain,HUD lejano,
-moves the HUD back by 10 grid units (20 studs) and makes it larger,moves the HUD back by 10 grid units (20 studs) and makes it larger,HUDを10グリッド単位（20スタッド）後退させ、大きくする。,pousse et enlarge le HUD de 10 unités de la grille (20 mètres),mueve el HUD 10 unidades de cuadrícula hacia atrás (20 metros),
+"enables camera rotation - aka ""spin""","enables camera rotation - aka ""spin""",カメラの回転を有効にする - スピン,"active la rotation de la caméra (""spin"")","activa la rotación de la cámara (modo ""spin"")","bật hiệu ứng xoay camera (""spin"")"
+Faraway Hud,Faraway Hud,HUDを離す,HUD lointain,HUD lejano,HUD xa
+moves the HUD back by 10 grid units (20 studs) and makes it larger,moves the HUD back by 10 grid units (20 studs) and makes it larger,HUDを10グリッド単位（20スタッド）後退させ、大きくする。,pousse et enlarge le HUD de 10 unités de la grille (20 mètres),mueve el HUD 10 unidades de cuadrícula hacia atrás (20 metros),di chuyển HUD ra phía sau khoảng 10 grid unit (20 stud) và làm cho nó to hơn
 Edge Buffer (Drift),Edge Buffer (Drift),エッジバッファ (ドリフト),Drift du rebord,Derrape sobre bordes,
 "[def. 0] aka cursor drift; makes the cursor ""stick"" to the edges by letting it move slightly past the edges","[def. 0] aka cursor drift; makes the cursor ""stick"" to the edges by letting it move slightly past the edges",[def. 0] 別名カーソルドリフト; カーソルをエッジから少しはみ出させることで、エッジに「くっつく」ようにする。,"[par défaut 0] aussi connu en tant que ""cursor drift"", donne l'impression que le curseur se ""colle"" au rebords en le laissant les dépasser","[por defecto 0] conocido como ""cursor drift"", hace que el cursor se adhiera a los bordes haciendo que se mueva ligeramente a través de ellos",
 Buffer Cursor,Buffer Cursor,バッファカーソル,Vrai curseur,Cursor verdadero,
 "shows a mini cursor at the ""real"" position when you enter the edge buffer","shows a mini cursor at the ""real"" position when you enter the edge buffer","エッジバッファに入ると、""実際の""位置にミニカーソルが表示される。","montre un mini curseur à la ""vraie"" position lorsque vous sortez du rebord","muestra un mini cursor en la posición ""real"" cuando derrapas sobre un borde",
 Follow Buffer Cursor,Follow Buffer Cursor,ドリフトに付いて行く,Suivre vrai curseur,Seguir cursor verdadero,
 makes the parallax follow the buffer cursor instead of the real one,makes the parallax follow the buffer cursor instead of the real one,視差をドリフトカーソルに合わせる,fait en sorte que le parallax suit le vrai curseur,hace que el parallax siga al cursor verdadero 
-Field of View,Field of View,視野（FOV),Champ de vision,Campo de visión (FOV),
-[def. 70] you know what this does,[def. 70] you know what this does,[デフォルト 70] これが何を意味するか、あなたは知っている。,[par défaut 70],[por defecto 70] deberías saber lo que hace,
-Hit FOV,Hit FOV,ヒットFOV,Champ de vision hit,Efecto de golpeo FOV,
-enables a FOV (Field of View) pulse when you hit a note,enables a FOV (Field of View) pulse when you hit a note,ノーツを打つと視野がぶれる,active une pulsation du champ de vision lorsque vous touchez une note,activa un efecto pulso en el campo de visión al golpear una nota
+Field of View,Field of View,視野（FOV),Champ de vision,Campo de visión (FOV),Phạm vi quan sát
+[def. 70] you know what this does,[def. 70] you know what this does,[デフォルト 70] これが何を意味するか、あなたは知っている。,[par défaut 70],[por defecto 70] deberías saber lo que hace,[mđ. 70] bạn biết nó làm gì mà
+Hit FOV,Hit FOV,ヒットFOV,Champ de vision hit,Efecto de golpeo FOV,Hiệu ứng FOV khi nhấn (hit)
+enables a FOV (Field of View) pulse when you hit a note,enables a FOV (Field of View) pulse when you hit a note,ノーツを打つと視野がぶれる,active une pulsation du champ de vision lorsque vous touchez une note,activa un efecto pulso en el campo de visión al golpear una nota,
 Hit FOV Modes,Hit FOV Modes,ヒットFOVモード,Modes champ de vision hit,Modos de efecto de golpeo FOV,
 Normal,Normal,ノーマル,Normal,Normal,
 Additive,Additive,累積,Additif,Aditivo,
